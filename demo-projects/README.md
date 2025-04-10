@@ -11,4 +11,4 @@ Unityの基本的なシェーダ機能を体験するためのデモプロジェ
 <img src="docs\images\unslow-logo.png" alt="logo" title="logo" width="12.5%">
 
 ©2015 STUDIO-UNSLOW 
-<<info@unslow.com>>
+@MasakatsuWatanabe
